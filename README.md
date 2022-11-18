@@ -59,5 +59,5 @@
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibghataziz&theme=radical)
 <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibghataziz&theme=dark)
