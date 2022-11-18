@@ -70,6 +70,8 @@
 
 <p>
     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibghataziz&theme=radical)
+    https://github-readme-stats.vercel.app/api?username=Sibghataziz&theme=radical
+    <img href="https://github-readme-stats.vercel.app/api?username=Sibghataziz&theme=radical">
 </p>
 <br>
 
