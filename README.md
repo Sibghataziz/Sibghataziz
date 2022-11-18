@@ -69,8 +69,7 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Irshad-1&show_icons=true&count_private=true&theme=dark" alt="Irshad-1" height="139" />
-    
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibghataziz&theme=radical)
 </p>
 <br>
 
