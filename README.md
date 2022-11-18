@@ -6,19 +6,13 @@
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
-
-
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
-
 <br>
-
-
-
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
@@ -43,32 +37,27 @@
 </p>
 <br>
 
-
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
 
-
 <p align="left">
     <a href="https://www.linkedin.com/in/md-sibghat-aziz-9b19641ab/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        target= "_blank"
+        target="_blank"
     </a>
     <a href="https://sibghat-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white"
-        target= "_blank"
+        target="_blank"
     </a>
     <a title="sibghat.aziz98@gmail.com" href="mailto:sibghat.aziz98@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank" />
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
     </a>
 </p>
 <br>
-
-
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibghataziz&theme=radical)
 <br>
-
