@@ -52,12 +52,14 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/md-sibghat-aziz-9b19641ab/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        target= "_blank"
     </a>
     <a href="https://sibghat-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white"
+        target= "_blank"
     </a>
     <a title="sibghat.aziz98@gmail.com" href="mailto:sibghat.aziz98@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="irshad.cse22@gmail.com" />
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank" />
     </a>
 </p>
 <br>
