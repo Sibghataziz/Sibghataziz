@@ -67,11 +67,6 @@
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
-
-<p>
-    <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibghataziz&theme=radical)
-    https://github-readme-stats.vercel.app/api?username=Sibghataziz&theme=radical -->
-    <img href="https://github-readme-stats.vercel.app/api?username=Sibghataziz&theme=radical">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibghataziz&theme=radical)
 <br>
 
