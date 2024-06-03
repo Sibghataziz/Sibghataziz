@@ -8,7 +8,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>- A Full Stack Web Developer proficient in MERN stack, emphasizing the creation of clean, elegant, and efficient code.</i>
 </h3>
 
 <br>
